@@ -1,2 +1,2 @@
-# py_torrentChecker
+# py_torrentManager
 To-do project
